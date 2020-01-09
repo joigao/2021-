@@ -1,2 +1,1 @@
-# joi_python
-asdadasdasda
+#joi_python
