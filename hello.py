@@ -1,1 +1,3 @@
 print("hehsdhuasdhuashduashdu")
+
+print("strange")
